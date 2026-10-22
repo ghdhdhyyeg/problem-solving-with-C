@@ -9,8 +9,10 @@ int main (){
 	scanf("%d", &b);
 	printf("Enter the Operation (- + / % ^ * ) :  ");
 	scanf("%d", &operation);
-	switch(a,b,operation){
+	switch(operation){
+	
 	}
+	
 	
 	
 	return 0;
